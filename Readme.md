@@ -32,3 +32,8 @@ Jupyter notebook dosyası olarak geliştirilmiş olan bu çalışmanın bir uçt
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png" ><br> 
 </div>
 
+
+<img src="https://github.com/mberkayakardev/Musteriye_Ozel_Fiyat_Tahmin/blob/master/1.png?raw=true">
+<img src="https://github.com/mberkayakardev/Musteriye_Ozel_Fiyat_Tahmin/blob/master/2.png?raw=true">
+<img src="https://github.com/mberkayakardev/Musteriye_Ozel_Fiyat_Tahmin/blob/master/3.png?raw=true">
+<img src="https://github.com/mberkayakardev/Musteriye_Ozel_Fiyat_Tahmin/blob/master/4.png?raw=true">
